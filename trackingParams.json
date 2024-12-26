@@ -1,0 +1,18 @@
+{
+    "genericParams": [
+        "utm_source",
+        "utm_medium",
+        "utm_campaign",
+        "utm_term",
+        "utm_content",
+        "utm_name"
+    ],
+    "domainRules": {
+        "youtu.be": {
+            "trackingParams": [
+                "si"
+            ],
+            "preserveParams": []
+        }
+    }
+}
