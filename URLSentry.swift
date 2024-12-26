@@ -39,7 +39,7 @@ class ClipboardMonitor {
     }
 
     func startMonitoring() {
-        Timer.scheduledTimer(withTimeInterval: 0.5, repeats: true) { [weak self] _ in
+        Timer.scheduledTimer(withTimeInterval: 1, repeats: true) { [weak self] _ in
             self?.checkClipboard()
         }
 
