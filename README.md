@@ -26,4 +26,4 @@ Alternatively, you can run it in a tmux session or create a daemon for persisten
 
 ### License
 
-[MIT](https://github.com/williamfedele/dejavu/blob/main/LICENSE)
+[MIT](https://github.com/williamfedele/urlsentry/blob/main/LICENSE)
